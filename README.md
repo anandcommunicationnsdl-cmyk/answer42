@@ -1,10 +1,9 @@
-# answer42
-
-यह मेरा पहला GitHub project है।
-
-## Features
-- Data storage
-- Example project
-
-## Author
-Anand Raj
+answer42/
+│── scripts/
+│   └── auto-script.user.js
+│
+│── assets/
+│   └── icon.png
+│
+│── README.md
+│── LICENSE
